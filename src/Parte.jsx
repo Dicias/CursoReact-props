@@ -2,7 +2,7 @@ export default function Parte (props){
     return (
         <div>
             <p>
-                {props.partX} <b>{props.exerciseX}</b> 
+                {props.partsName} <b>{props.partsExercises}</b> 
             </p>
         </div>
         )
